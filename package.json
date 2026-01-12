@@ -1,10 +1,10 @@
 {
-  "name": "my-bun-module",
+  "name": "@zenobius/pi-skillful",
   "version": "0.1.0",
-  "description": "A Bun module",
+  "description": "Pi Skills Plugin - Anthropic Agent Skills Specification implementation for Pi",
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com"
+    "name": "Zenobius",
+    "email": "zenobius@zenobi.us"
   },
   "type": "module",
   "exports": {
